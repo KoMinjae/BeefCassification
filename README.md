@@ -1,4 +1,4 @@
-# BeefCassification
+# BeefClassification
 
 소고기 등급 
 
