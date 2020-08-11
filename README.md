@@ -1,4 +1,4 @@
-# BeefcCassification
+# BeefCassification
 
 소고기 등급 
 
